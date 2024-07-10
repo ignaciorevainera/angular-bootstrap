@@ -64,8 +64,7 @@
 								"styles": {
 									"minify": true,
 									"inlineCritical": false
-								},
-								"fonts": true
+								}
 							}
 						},
 						"development": {
@@ -74,8 +73,7 @@
 								"styles": {
 									"minify": true,
 									"inlineCritical": false
-								},
-								"fonts": true
+								}
 							},
 							"extractLicenses": false,
 							"sourceMap": true
